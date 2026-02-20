@@ -1,0 +1,31 @@
+# ======================
+# Java
+# ======================
+
+# Compiled class files
+*.class
+
+# IntelliJ / generic Java build output
+out/
+
+# Optional (if using IDEs later)
+.idea/
+*.iml
+
+# ======================
+# C++
+# ======================
+
+# Ignore all files without extension (compiled binaries)
+# BUT keep directories
+* 
+!*/
+
+# Re-allow source files
+!*.java
+!*.cpp
+!*.h
+!*.hpp
+!*.md
+!*.txt
+!.gitignore
