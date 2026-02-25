@@ -9,7 +9,7 @@ Each experiment lives on its own branch.
 
 | Branch | Topic | Description |
 |--------|-------|-------------|
-| [binarysearch_comparision](../../tree/binarysearch_comparision) | Binary Search | Java vs C++ performance on 10M elements |
+| [binarysearch_comparision](../../tree/binarysearch) | Binary Search | Java vs C++ performance on 10M elements |
 
 ## Why this repo exists
 
